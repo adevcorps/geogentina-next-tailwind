@@ -3,6 +3,10 @@ import { PopupButton } from "react-calendly";
 
 const PopupComponent = ({ }) => {
   let newDiv:HTMLElement;
+  useEffect(() => {
+    newDiv = document.createElement('div')    
+  }, []);
+
   const [rootElement, setRootElement] = useState(newDiv);
   useEffect(() => {
     if (typeof window !== "undefined") {
