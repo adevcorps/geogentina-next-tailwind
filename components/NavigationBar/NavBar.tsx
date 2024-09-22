@@ -38,6 +38,7 @@ const NavBar = () => {
             src={logSvg}
             width={130}
             height={24}
+            style={{cursor: `pointer`}}
           />
         </Link>
         <ul style={{ color: `${textColor}` }} className="hidden sm:flex">
@@ -59,8 +60,7 @@ const NavBar = () => {
         </ul>
         <Link href="https://lens.geogentia.com/" >
           <button className="px-6 py-2 font-medium text-sm rounded-md bg-geo-gree">
-
-          Login
+            Login
           </button>
         </Link>
 

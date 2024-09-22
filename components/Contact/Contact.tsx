@@ -1,4 +1,5 @@
 import React from "react";
+import PopupComponent from "../PopupComponent/PopupComponent";
 
 const contact = () => {
   return (
@@ -12,9 +13,7 @@ const contact = () => {
             <p className="text-slate-400 text-center sm:text-left">Learn how our geospatial analytics can benefit your organization.</p>
             <div className="w-full sm:w-min flex flex-col sm:flex-row gap-4 mt-6">
               <div className="w-full sm:w-min flex flex-col sm:flex-row gap-4 mt-6">
-                <button className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-geo-gree text-secondary-foreground shadow-sm hover:bg-geo-gree/80 h-10 px-6 py-3">
-                  Schedule a Demo
-                </button>
+                <PopupComponent />
               </div>
             </div>
           </div>
