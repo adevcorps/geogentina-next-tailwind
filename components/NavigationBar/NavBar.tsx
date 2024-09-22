@@ -33,13 +33,13 @@ const NavBar = () => {
       className="fixed left-0 top-0 w-full z-10 ease-in duration-300"
     >
       <div className="max-w-[1240px] m-auto flex justify-between items-center p-4 text-white border-bottom-opacity-5">
-        <a href="/#hero">
+        <Link href="/#hero">
           <Image
             src={logSvg}
             width={130}
             height={24}
           />
-        </a>
+        </Link>
         <ul style={{ color: `${textColor}` }} className="hidden sm:flex">
           <li className="px-4 transition-all font-medium text-geo-green">
             <Link href="/#platform">Platform</Link>
