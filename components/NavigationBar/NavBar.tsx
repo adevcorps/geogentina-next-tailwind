@@ -57,9 +57,9 @@ const NavBar = () => {
             <Link href="/#contact">Contact</Link>
           </li>
         </ul>
-        <a href="https://lens.geogentia.com/" target="_blank" className="px-6 py-2 font-medium text-sm rounded-md bg-geo-gree">
+        <Link href="https://lens.geogentia.com/" className="px-6 py-2 font-medium text-sm rounded-md bg-geo-gree">
           Login
-        </a>
+        </Link>
 
         {/* Mobile Button */}
         <div onClick={handleNav} className="block sm:hidden z-10">

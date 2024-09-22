@@ -14,7 +14,7 @@ const Platform = ({ }) => {
                         <div className="grid-span-1 mx-0 lg:mx-16 my-6 xl:my-12 px-0 sm:px-8 md:px-16 lg:px-0">
                             <p className="text-lg leading-8 tracking-tight text-geo-blue text-center lg:text-left">About</p>
                             <h2 className="text-white text-3xl leading-[40px] md:text-4xl md:leading-[44px] mt-2 text-center lg:text-left">Discover the Power of Our Geospatial Analytics Platform</h2>
-                            <p className="text-slate-400 font-light leading-[28px] mt-8 text-center lg:text-left">Our SaaS subscription service offers advanced geospatial analytics for the public sector, law enforcement, and investigative journalists. With powerful features and benefits, it'`s the ultimate tool for uncovering insights and making data-driven decisions.</p>
+                            <p className="text-slate-400 font-light leading-[28px] mt-8 text-center lg:text-left">Our SaaS subscription service offers advanced geospatial analytics for the public sector, law enforcement, and investigative journalists. With powerful features and benefits, its the ultimate tool for uncovering insights and making data-driven decisions.</p>
                             <ul className="w-full max-w-sm mx-auto sm:max-w-full flex flex-col sm:flex-row gap-8 mt-8 px-8 sm:px-0">
                                 <li className="flex flex-col gap-2 items-center">
                                     <img alt="" loading="lazy" width="750" height="500" decoding="async" data-nimg="1" className="w-12 h-12" src={imgInvest.src} style={{color: `transparent`}} />
