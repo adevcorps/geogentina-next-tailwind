@@ -2,12 +2,7 @@ import React, {useState, useEffect} from 'react';
 import { PopupButton } from "react-calendly";
 
 const PopupComponent = ({ }) => {
-  let newDiv:HTMLElement;
-  useEffect(() => {
-    newDiv = document.createElement('div')    
-  }, []);
-
-  const [rootElement, setRootElement] = useState(newDiv);
+  const [rootElement, setRootElement] = useState<HTMLElement | null>(null);
   useEffect(() => {
     if (typeof window !== "undefined") {
       setRootElement(document.getElementById("__next")!);
