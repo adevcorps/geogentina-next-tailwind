@@ -4,7 +4,10 @@ import imgCta from '../../assets/cta.png';
 import imgDataVisual from '../../assets/data-visualization.jpg';
 import imgGraph from '../../assets/graph.jpg';
 import imgHistory from '../../assets/history.jpg';
-import PopupComponent from "../PopupComponent/PopupComponent";
+import dynamic from "next/dynamic";
+const PopupComponent = dynamic(() => import("../PopupComponent/PopupComponent"), {
+  ssr: false
+})
 
 
 const Features = ({ }) => {

@@ -1,5 +1,8 @@
 import React from "react";
-import PopupComponent from "../PopupComponent/PopupComponent";
+import dynamic from "next/dynamic";
+const PopupComponent = dynamic(() => import("../PopupComponent/PopupComponent"), {
+  ssr: false
+})
 
 const contact = () => {
   return (

@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
-import Link from "next/link";
-import PopupComponent from "../PopupComponent/PopupComponent";
+import dynamic from "next/dynamic";
+const PopupComponent = dynamic(() => import("../PopupComponent/PopupComponent"), {
+  ssr: false
+})
 
 interface Props {
   heading: string;
