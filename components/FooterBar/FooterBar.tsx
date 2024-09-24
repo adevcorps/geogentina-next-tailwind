@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import logSvg from '../../assets/geogentia-logo.svg';
+import Link from "next/link";
 
 const FooterBar = ({ }) => {
     return (
@@ -27,7 +28,7 @@ const FooterBar = ({ }) => {
                     <p>© 2023 Geogentia. All rights reserved.</p>
                     <ul className="space-x-10 inline-block">
                         <li>
-                            <a className="hover:text-geo-green" href="/privacy">Privacy Policy</a>
+                            <Link className="hover:text-geo-green" href="/privacy">Privacy Policy</Link>
                         </li>
                     </ul>
                 </div>
