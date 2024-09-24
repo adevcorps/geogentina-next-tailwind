@@ -55,7 +55,7 @@ const FooterBar = ({ }) => {
                         <div className="w-full  flex justify-center">
                             <ul className="min-w-[160px] flex flex-col gap-6 text-sm px-3">
                                 <li>
-                                    <a className="hover:text-geo-green" href="/privacy">Privacy Policy</a>
+                                    <Link className="hover:text-geo-green" href="/privacy">Privacy Policy</Link>
                                 </li>
                             </ul>
                         </div>
