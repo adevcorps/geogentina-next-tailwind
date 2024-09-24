@@ -9,7 +9,7 @@ const Privacy: NextPage = ({ }) => {
                 <h1>Privacy Notice</h1>
                 <p><em>Last updated July 14, 2022</em></p>
                 <h2>Introduction</h2>
-                <p>This privacy notice for Geogentia ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:</p>
+                <p>This privacy notice for Geogentia (&quot;Company,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), describes how and why we might collect, store, use, and/or share (&quot;process&quot;) your information when you use our services (&quot;Services&quot;), such as when you:</p>
                 <ul>
                     <li>Visit our website at <Link href="http://www.Geogentia.com">http://www.Geogentia.com</Link>, or any website of ours that links to this privacy notice</li>
                     <li>Engage with us in other related ways, including any sales, marketing, or events</li>
@@ -81,7 +81,7 @@ const Privacy: NextPage = ({ }) => {
                 <ul>
                     <li>Log and Usage Data. Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with
                         us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and
-                        other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).</li>
+                        other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called &quot;crash dumps&quot;), and hardware settings).</li>
                 </ul>
                 <h3>2. HOW DO WE PROCESS YOUR INFORMATION?</h3>
                 <p>In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.</p>
@@ -89,7 +89,7 @@ const Privacy: NextPage = ({ }) => {
                 <ul>
                     <li>To request feedback. We may process your information when necessary to request feedback and to contact you about your use of our Services.</li>
                     <li>To send you marketing and promotional communications. We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time.
-                        For more information, see "WHAT ARE YOUR PRIVACY RIGHTS?" below).</li>
+                        For more information, see &quot;WHAT ARE YOUR PRIVACY RIGHTS?&quot; below).</li>
                     <li>To protect our Services. We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.</li>
                     <li>To identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.</li>
                     <li>To determine the effectiveness of our marketing and promotional campaigns. We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.</li>
@@ -123,28 +123,28 @@ const Privacy: NextPage = ({ }) => {
                 <p>If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: <Link href="https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm">National Data Protection Authorities</Link>.</p>
                 <p>If you are located in Switzerland, the contact details for the data protection authorities are available here: <Link href="https://www.edoeb.admin.ch/edoeb/en/home.html">Swiss Data Protections</Link>.</p>
                 <p>Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw
-                    your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.</p>
+                    your consent at any time by contacting us by using the contact details provided in the section &quot;HOW CAN YOU CONTACT US ABOUT THIS NOTICE?&quot; below.</p>
                 <p>However, please note that this will not affect the lawfulness of the processing before its withdrawal, nor when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other
                     than consent.</p>
                 <p>If you have questions or comments about your privacy rights, you may email us at
                     <Link href="mailto:info@geogentia.com">info@geogentia.com</Link>.</p>
                 <h3>8. CONTROLS FOR DO-NOT-TRACK FEATURES</h3>
-                <p>Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected.
+                <p>Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (&quot;DNT&quot;) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected.
                     At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to
                     be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.</p>
                 <h3>9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?</h3>
                 <p>In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.</p>
-                <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if
+                <p>California Civil Code Section 1798.83, also known as the &quot;Shine The Light&quot; law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if
                     any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would
                     like to make such a request, please submit your request in writing to us using the contact information provided below.</p>
                 <p>If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us
                     using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that
                     the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).</p>
                 <h2>CCPA Privacy Notice</h2>
-                <p>The California Code of Regulations defines a "resident" as:</p>
+                <p>The California Code of Regulations defines a &quot;resident&quot; as:</p>
                 <p>(1) every individual who is in the State of California for other than a temporary or transitory purpose and (2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose</p>
-                <p>All other individuals are defined as "non-residents."</p>
-                <p>If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.</p>
+                <p>All other individuals are defined as &quot;non-residents.&quot;</p>
+                <p>If this definition of &quot;resident&quot; applies to you, we must adhere to certain rights and obligations regarding your personal information.</p>
                 <p>What categories of personal information do we collect?</p>
                 <p>We have collected the following categories of personal information in the past twelve (12) months:</p>
                 <table>
@@ -225,7 +225,7 @@ const Privacy: NextPage = ({ }) => {
                 <p>If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.</p>
                 <h4>Will your information be shared with anyone else?</h4>
                 <p>We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf.</p>
-                <p>We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.</p>
+                <p>We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be &quot;selling&quot; of your personal information.</p>
                 <p>Geogentia has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. Geogentia will not sell personal information in the future belonging to website visitors, users,
                     and other consumers.</p>
                 <h4>Your rights with respect to your personal data</h4>
@@ -253,7 +253,7 @@ const Privacy: NextPage = ({ }) => {
                     we would like to hear from you.</p>
                 <h3>10. DO WE MAKE UPDATES TO THIS NOTICE?</h3>
                 <p>In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.</p>
-                <p>We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may
+                <p>We may update this privacy notice from time to time. The updated version will be indicated by an updated &quot;Revised&quot; date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may
                     notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.</p>
                 <h3>11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</h3>
                 <p>If you have questions or comments about this notice, you may email us at <Link href="mailto:info@geogentia.com">info@geogentia.com</Link> or by post to:</p>
@@ -263,7 +263,7 @@ const Privacy: NextPage = ({ }) => {
                 <p>United States</p>
                 <h3>12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</h3>
                 <p>Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, <Link href="https://app.termly.io/notify/8c80ecbc-5ca0-4e11-8f25-3c3e319b203f">please submit a request form by clicking here</Link>.</p>
-                <p>This privacy policy was created using <Link href="https://termly.io/products/privacy-policy-generator">Termlys Privacy Policy Generator</Link>.</p>
+                <p>This privacy policy was created using <Link href="https://termly.io/products/privacy-policy-generator">Termly&apos;s Privacy Policy Generator</Link>.</p>
             </div>
 
         </div>
